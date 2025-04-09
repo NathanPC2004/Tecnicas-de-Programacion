@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nathan\\Downloads\\CajeroATM_Proyecto\\CajeroATM_Proyecto\\CajeroATM_Proyecto.csproj",
+      "projectUniqueName": "C:\\Users\\Nathan\\Documents\\Tecnicas-de-Programacion\\CajeroATM_Proyecto\\CajeroATM_Proyecto.csproj",
       "projectName": "CajeroATM_Proyecto",
-      "projectPath": "C:\\Users\\Nathan\\Downloads\\CajeroATM_Proyecto\\CajeroATM_Proyecto\\CajeroATM_Proyecto.csproj",
+      "projectPath": "C:\\Users\\Nathan\\Documents\\Tecnicas-de-Programacion\\CajeroATM_Proyecto\\CajeroATM_Proyecto.csproj",
       "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nathan\\Downloads\\CajeroATM_Proyecto\\CajeroATM_Proyecto\\obj\\",
+      "outputPath": "C:\\Users\\Nathan\\Documents\\Tecnicas-de-Programacion\\CajeroATM_Proyecto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nathan\\Downloads\\CajeroATM_Proyecto\\CajeroATM_Proyecto\\",
+  "WorkspaceRootPath": "C:\\Users\\Nathan\\Documents\\Tecnicas-de-Programacion\\CajeroATM_Proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E333A166-B953-45AF-8A58-EF5F516E8468}|CajeroATM_Proyecto.csproj|c:\\users\\nathan\\downloads\\cajeroatm_proyecto\\cajeroatm_proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E333A166-B953-45AF-8A58-EF5F516E8468}|CajeroATM_Proyecto.csproj|c:\\users\\nathan\\documents\\tecnicas-de-programacion\\cajeroatm_proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E333A166-B953-45AF-8A58-EF5F516E8468}|CajeroATM_Proyecto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E333A166-B953-45AF-8A58-EF5F516E8468}|CajeroATM_Proyecto.csproj|c:\\users\\nathan\\documents\\tecnicas-de-programacion\\cajeroatm_proyecto\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E333A166-B953-45AF-8A58-EF5F516E8468}|CajeroATM_Proyecto.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Nathan\\Documents\\Tecnicas-de-Programacion\\CajeroATM_Proyecto\\Usuario.cs",
+              "RelativeDocumentMoniker": "Usuario.cs",
+              "ToolTip": "C:\\Users\\Nathan\\Documents\\Tecnicas-de-Programacion\\CajeroATM_Proyecto\\Usuario.cs",
+              "RelativeToolTip": "Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:39:23.493Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nathan\\Downloads\\CajeroATM_Proyecto\\CajeroATM_Proyecto\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nathan\\Documents\\Tecnicas-de-Programacion\\CajeroATM_Proyecto\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Nathan\\Downloads\\CajeroATM_Proyecto\\CajeroATM_Proyecto\\Program.cs",
+              "ToolTip": "C:\\Users\\Nathan\\Documents\\Tecnicas-de-Programacion\\CajeroATM_Proyecto\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAgwPMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAAAOYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T02:14:56.259Z",
               "EditorCaption": ""
