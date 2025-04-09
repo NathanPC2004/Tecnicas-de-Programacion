@@ -1,0 +1,28 @@
+C:\Users\danyc\OneDrive\Escritorio\Daniel VS\CajeroATM_Proyecto\bin\Debug\net9.0\CajeroATM_Proyecto.exe
+C:\Users\danyc\OneDrive\Escritorio\Daniel VS\CajeroATM_Proyecto\bin\Debug\net9.0\CajeroATM_Proyecto.deps.json
+C:\Users\danyc\OneDrive\Escritorio\Daniel VS\CajeroATM_Proyecto\bin\Debug\net9.0\CajeroATM_Proyecto.runtimeconfig.json
+C:\Users\danyc\OneDrive\Escritorio\Daniel VS\CajeroATM_Proyecto\bin\Debug\net9.0\CajeroATM_Proyecto.dll
+C:\Users\danyc\OneDrive\Escritorio\Daniel VS\CajeroATM_Proyecto\bin\Debug\net9.0\CajeroATM_Proyecto.pdb
+C:\Users\danyc\OneDrive\Escritorio\Daniel VS\CajeroATM_Proyecto\obj\Debug\net9.0\CajeroATM_Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danyc\OneDrive\Escritorio\Daniel VS\CajeroATM_Proyecto\obj\Debug\net9.0\CajeroATM_Proyecto.AssemblyInfoInputs.cache
+C:\Users\danyc\OneDrive\Escritorio\Daniel VS\CajeroATM_Proyecto\obj\Debug\net9.0\CajeroATM_Proyecto.AssemblyInfo.cs
+C:\Users\danyc\OneDrive\Escritorio\Daniel VS\CajeroATM_Proyecto\obj\Debug\net9.0\CajeroATM_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\danyc\OneDrive\Escritorio\Daniel VS\CajeroATM_Proyecto\obj\Debug\net9.0\CajeroATM_Proyecto.dll
+C:\Users\danyc\OneDrive\Escritorio\Daniel VS\CajeroATM_Proyecto\obj\Debug\net9.0\refint\CajeroATM_Proyecto.dll
+C:\Users\danyc\OneDrive\Escritorio\Daniel VS\CajeroATM_Proyecto\obj\Debug\net9.0\CajeroATM_Proyecto.pdb
+C:\Users\danyc\OneDrive\Escritorio\Daniel VS\CajeroATM_Proyecto\obj\Debug\net9.0\CajeroATM_Proyecto.genruntimeconfig.cache
+C:\Users\danyc\OneDrive\Escritorio\Daniel VS\CajeroATM_Proyecto\obj\Debug\net9.0\ref\CajeroATM_Proyecto.dll
+C:\Users\Nathan\Downloads\CajeroATM_Proyecto\CajeroATM_Proyecto\bin\Debug\net9.0\CajeroATM_Proyecto.exe
+C:\Users\Nathan\Downloads\CajeroATM_Proyecto\CajeroATM_Proyecto\bin\Debug\net9.0\CajeroATM_Proyecto.deps.json
+C:\Users\Nathan\Downloads\CajeroATM_Proyecto\CajeroATM_Proyecto\bin\Debug\net9.0\CajeroATM_Proyecto.runtimeconfig.json
+C:\Users\Nathan\Downloads\CajeroATM_Proyecto\CajeroATM_Proyecto\bin\Debug\net9.0\CajeroATM_Proyecto.dll
+C:\Users\Nathan\Downloads\CajeroATM_Proyecto\CajeroATM_Proyecto\bin\Debug\net9.0\CajeroATM_Proyecto.pdb
+C:\Users\Nathan\Downloads\CajeroATM_Proyecto\CajeroATM_Proyecto\obj\Debug\net9.0\CajeroATM_Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Downloads\CajeroATM_Proyecto\CajeroATM_Proyecto\obj\Debug\net9.0\CajeroATM_Proyecto.AssemblyInfoInputs.cache
+C:\Users\Nathan\Downloads\CajeroATM_Proyecto\CajeroATM_Proyecto\obj\Debug\net9.0\CajeroATM_Proyecto.AssemblyInfo.cs
+C:\Users\Nathan\Downloads\CajeroATM_Proyecto\CajeroATM_Proyecto\obj\Debug\net9.0\CajeroATM_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Downloads\CajeroATM_Proyecto\CajeroATM_Proyecto\obj\Debug\net9.0\CajeroATM_Proyecto.dll
+C:\Users\Nathan\Downloads\CajeroATM_Proyecto\CajeroATM_Proyecto\obj\Debug\net9.0\refint\CajeroATM_Proyecto.dll
+C:\Users\Nathan\Downloads\CajeroATM_Proyecto\CajeroATM_Proyecto\obj\Debug\net9.0\CajeroATM_Proyecto.pdb
+C:\Users\Nathan\Downloads\CajeroATM_Proyecto\CajeroATM_Proyecto\obj\Debug\net9.0\CajeroATM_Proyecto.genruntimeconfig.cache
+C:\Users\Nathan\Downloads\CajeroATM_Proyecto\CajeroATM_Proyecto\obj\Debug\net9.0\ref\CajeroATM_Proyecto.dll
